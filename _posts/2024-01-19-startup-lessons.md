@@ -5,7 +5,7 @@ layout: post
 permalink: lessons
 excerpt:  Startups are hard and I've made a lot of mistakes. Here are a few lessons I've learned from 10+ years working at them.
 image: /images/default.png
-categories: entrepreneurship, marketing
+categories: entrepreneurship
 ---
 
 Startups are hard. I know because I've spent over a decade working at them. 
