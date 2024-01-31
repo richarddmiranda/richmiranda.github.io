@@ -28,7 +28,7 @@ permalink: /marketing/
 
   
 
-  {% for post in site.categories.inner-game %}
+  {% for post in site.categories.marketing %}
   <!-- {% unless post.categories contains "notes" or post.categories contains "lists"%} -->
     <article class="post">
 
