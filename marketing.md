@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /marketing
+permalink: /marketing/
 ---
 
 <div class="posts">
