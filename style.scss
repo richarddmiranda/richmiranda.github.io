@@ -251,10 +251,10 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 20px;
-  background-color: white !important;
+  /* background-color: bg-tan !important; */
   a {
     color: inherit;
-    background-color: white !important;
+     /* background-color: white !important;*/
   }
 }
 
@@ -492,7 +492,7 @@ nav {
     text-transform: uppercase;
     color: #6B21A8;
     font-size: 14px;
-    background-color: white !important;
+    /*background-color: white !important;*/
     text-decoration: underline;
   }
 }
