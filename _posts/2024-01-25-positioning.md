@@ -26,16 +26,16 @@ How do you do that?
 
 1. *Conduct user and customer interviews*. This helps you understand what pain your solution should solve. 
 2. *Craft value props*. Your interviews help you define what problem you think you're solving and who for. Then you write value propositions that clarify how you solve it for them and the benefits they receive from it being solved.
-3. *Get them in front of potential customers*. Now you dangle 
+3. *Get them in front of potential customers*. Now you push them out and see how people react. You either double down or you adjust and repeat steps 1-3.
 
 This maps to what, IMO, are the main marketing skills you need at an early-stage startup:
 
-1. *Conducting good interviews*. Good interviews, without leading questions.
-2. *Copywriting*. Compelling
-3. *A generalist understanding of channels*. Specialisation isn't helpful yet because you might need to try a few channels to nail the right one.
-4. *Scrappiness*. Because at the beginning, marketing is as much sales as it is marketing.
+1. *Conducting good interviews*. Good interviews are nuanced and surprisingly hard to do without leading the questions.
+2. *Copywriting*. Generating compelling copy is a must, because this forms the basis of all your marketing assets, which you need to spin up and adjust as needed.
+3. *A generalist understanding of channels*. Specialisation isn't helpful yet because you might need to try a few channels to nail the right one. Being able to whip up a few rough and ready is better than one amazingly executed but mismatched channel.
+4. *Scrappiness*. Because at the beginning, marketing is as much sales and relies on hustle, outreach and talking to people.
 
-Notice, there's no real speciailist knowledge needed here. This is why a good Founder can often replace the need for a marketer at the beginning. A good marketing hire at this stage is a generalist, not a specialist.
+Notice, there's no real specialist knowledge needed here. This is why a good Founder can often replace the need for a marketer at the beginning. A good marketing hire at this stage is a generalist, not a specialist.
 
 That's why Fractional CMOs and 'strategy consultants' are worse than useless at this stage (and really for awhile tbh). Execution and people directly contributing to execution are everything.
 
