@@ -27,7 +27,7 @@ permalink: /parenting/
 
   
 
-  {% for post in site.categories.personal-brand-building %}
+  {% for post in site.categories.parenting %}
   <!-- {% unless post.categories contains "notes" or post.categories contains "lists"%} -->
     <article class="post">
 
