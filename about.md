@@ -6,7 +6,7 @@ permalink: /about/
 
 I'm Rich, a Growth and Product Marketing consultant. I help companies define who their target audience is and then figure out how to turn them into customers. Before going into consulting, I spent over 10 years working with start-ups in various senior Growth Marketing roles in London and Berlin. 
 
-I had a baby gurl in 2023 and took most of the year off to hang out with her. It was equal parts amazing and tough.
+I had a baby girl in 2023 and took most of the year off to hang out with her. It was equal parts amazing and tough.
 
 I'm a Brit who grew up in the US with a Spanish dad currently living in Berlin, Germany. It's complicated.
 
